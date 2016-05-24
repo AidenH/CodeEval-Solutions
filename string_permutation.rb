@@ -1,5 +1,3 @@
-# Add function to fix error with repeating letters!
-
 print "File name (including extension): "
 file_name = gets.chomp
 
